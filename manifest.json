@@ -1,9 +1,16 @@
-{
-  "files": [
-    {
-      "path": "teste.txt",
-      "url": "",
-      "md5": "00000000000000000000000000000000"
-    }
-  ]
+﻿{
+    "files":  [
+                  {
+                      "path":  "Main.dll",
+                      "md5":  "3ee012e3bb997deafb73ec74942e3cab"
+                  },
+                  {
+                      "path":  "main.exe",
+                      "md5":  "a7a82952b1b3181f4897bd5f3d8d96ec"
+                  },
+                  {
+                      "path":  "main.premium",
+                      "md5":  "11b822f5d2218ae9fe230d48a27cadb5"
+                  }
+              ]
 }
