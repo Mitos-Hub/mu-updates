@@ -1,0 +1,32 @@
+﻿{
+    "files":  [
+                  {
+                      "path":  "Main.dll",
+                      "md5":  "3ee012e3bb997deafb73ec74942e3cab"
+                  },
+                  {
+                      "path":  "main.exe",
+                      "md5":  "a7a82952b1b3181f4897bd5f3d8d96ec"
+                  },
+                  {
+                      "path":  "main.premium",
+                      "md5":  "11b822f5d2218ae9fe230d48a27cadb5"
+                  },
+                  {
+                      "path":  "Data/Custom/Script/Scripts/TesteProtocol/Config.lua",
+                      "md5":  "4e2a0a5985b9e68e211dfdf2b302ec2a"
+                  },
+                  {
+                      "path":  "Data/Custom/Script/Scripts/TesteProtocol/TesteProtocol.lua",
+                      "md5":  "6f69349f40b786669a71fd3099081c43"
+                  },
+                  {
+                      "path":  "Data/Custom/Script/Scripts/WindowTitle/Config.lua",
+                      "md5":  "57b8c96115db2ba48e82c42f42e43b05"
+                  },
+                  {
+                      "path":  "Data/Custom/Script/Scripts/WindowTitle/WindowTitle.lua",
+                      "md5":  "5b3b954c3d8ca322da5d9e32cb22d436"
+                  }
+              ]
+}
